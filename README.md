@@ -1,6 +1,6 @@
 # Decoder-Ring
 
-Live web app: https://decoder-ring-two.vercel.app/
+Live web app: https://vercel.com/sianglings-projects/decoder-ring
 
 A project for my thinkful engineering course I wrote the javascript for. Takes strings as inputs and encodes/decodes them using ddifferent encryption methods.
 
